@@ -1,4 +1,3 @@
-# Simple-to-do-list
 tasks = []
 
 def add_task(task):
